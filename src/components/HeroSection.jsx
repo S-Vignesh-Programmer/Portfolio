@@ -425,7 +425,7 @@ export const HeroSection = () => {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/1YxX0bzWJ8pI06sJNdhGNF9qvjy_C-MqC/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/1NMjfOJjN6Z1-9vWTdN27KxlABKVMb-AF/view?usp=drivesdk"
                 target="_blank"
                 download
                 className={cn(
